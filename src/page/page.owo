@@ -1,0 +1,205 @@
+<template lang="pug">
+.home
+  plug(_name="module98" _src="https://template.owo.ink/1d56825274321d9c.owo")
+  img.main-top(src="@|top.png|")
+  .title-bar
+    ul
+      li
+        a(href="#" target="_blank") 首页
+      li
+        a(href="#" target="_blank") 最新动态
+      li
+        a(href="#" target="_blank") 通知公告
+      li
+        a(href="#" target="_blank") 新闻发布会
+      li
+        a(href="#" target="_blank") 多语种报道
+      li
+        a(href="#" target="_blank") 融媒体验服务
+      li
+        a(href="#" target="_blank") 新闻中心简介
+      li
+        a(href="#" target="_blank") 记者专区
+  .conn
+    .w1200.clear
+      plug(_name="module155" _src="https://template.owo.ink/ba4fa1f4be63c302.owo")
+      plug(_name="module141" _src="https://template.owo.ink/dd34f42b0698caf4.owo")
+      plug(_name="module39" _src="https://template.owo.ink/5901031d12b7c5e1.owo")
+      .new-box.clear.lr-box
+        plug.fl(_name="module151" _src="https://template.owo.ink/73590f12f6eb3c7c.owo")
+        ul.right.fr
+          li
+            a(href="#" target="_blank") 党中央将隆重举行表彰大会 颁授党内最高荣誉“七一勋章”
+          li
+            a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+          li
+            a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+          li
+            a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+      .lr-box
+        .left.title-card.xwfbh
+          .title.clear
+            h2.fl 新闻发布会
+            h5.fr 更多
+          video.xwimg(src="https://cunchu.site/people/%E6%9D%91.mp4" controls)
+          .lable-info
+            .lable 关注
+            span 中国共产党成立100周年庆祝活动 新闻发布会
+          ul
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+        .right
+</template>
+
+<script>
+  module.exports = {
+    created: function () {
+      console.log('sd')
+    }
+  }
+</script>
+
+
+<style lang="less">
+
+.conn {
+  background-color: white;
+  padding-top: 5px;
+  background-image: url('@|bg.jpg|');
+  background-size: 100% auto;
+  background-position: 0 -12vw;
+}
+.main-top {
+  display: block;
+}
+.title-bar {
+  background-color: #ce4a5c;
+  height: 50px;
+  color: white;
+  ul {
+    li {
+      display: inline-block;
+      line-height: 50px;
+      font-size: 22px;
+      color: #FFFFFF;
+      margin: 0 14px;
+    }
+    a {
+      color: white;
+    }
+  }
+}
+.high1, .LbWMGSGs, .news-head, .lr-box {
+  margin-bottom: 20px;
+}
+.new-box {
+  height: 420px;
+  .right {
+    width: 545px;
+    height: 100%;
+    li {
+      background-color: #fafafa;
+      height: 25%;
+      text-align: left;
+      padding: 2% 20px;
+      font-size: 20px;
+      line-height: 30px;
+      a {
+        display: block;
+      }
+    }
+    li:hover {
+      background-color: #ececec;
+      a {
+        text-decoration: none;
+        color: black;
+      }
+    }
+  }
+}
+.lr-box {
+  .left {
+    width: 655px;
+  }
+  .right {
+    width: 487px;
+  }
+}
+.title-card {
+  border: 1px solid #E4E4E4;
+  .title {
+    height: 60px;
+    line-height: 60px;
+    padding: 0 10px;
+    h2 {
+      font-size: 30px;
+      color: #B20009;
+      font-weight: normal;
+    }
+    h5 {
+      font-size: 18px;
+      color: #D4D4D4;
+      text-align: right;
+      font-weight: normal;
+    }
+  }
+}
+.xwfbh {
+  .xwimg {
+    width: 100%;
+    height: 352px;
+    display: block;
+    object-fit: cover;
+  }
+  .lable-info {
+    background-color: #D41A25;
+    color: white;
+    height: 65px;
+    line-height: 65px;
+    position: relative;
+    .lable {
+      position: absolute;
+      left: 8%;
+      border: 1px solid #FFFFFF;
+      height: 27px;
+      width: 60px;
+      top: 0;
+      bottom: 0;
+      margin: auto;
+      line-height: 27px;
+      font-size: 17px;
+    }
+    span {
+      font-size: 18px;
+    }
+  }
+  ul {
+    margin: 20px 0;
+    .text {
+      font-size: 18px;
+      color: #000000;
+      float: left;
+    }
+    .time {
+      font-size: 16px;
+      color: #CFCFCF;
+      float: right;
+    }
+    li {
+      padding: 0 10px;
+      line-height: 36px;
+    }
+  }
+}
+
+</style>
