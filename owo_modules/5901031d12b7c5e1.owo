@@ -39,7 +39,9 @@ p a {
   overflow: hidden;
   margin: 0 30px;
   line-height: 20px;
-  padding-top: 20px;
+  padding-top: 10px;
   color: unset;
+  font-size: 14px;
+  color: #DF000B;
 }
 </style>

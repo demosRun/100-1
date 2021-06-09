@@ -50,27 +50,27 @@ module.exports = {
   cursor: pointer;
 }
 .arrow-left {
-  background: url('https://cunchu.site/owo/material/jiangsu/left-button.png') no-repeat center;
+  background: url('@|left-2.png|') no-repeat center;
   position: absolute;
   left: -0;
   top: 0;
   bottom: 0;
   margin: auto;
-  width: 62px;
-  height: 62px;
+  width: 80px;
+  height: 80px;
   z-index: 99;
   background-position: center;
 }
 
 .arrow-right {
-  background: url('https://cunchu.site/owo/material/jiangsu/right-button.png') no-repeat left bottom;
+  background: url('@|left-1.png|') no-repeat left bottom;
   position: absolute;
   right: -0;
   top: 0;
   bottom: 0;
   margin: auto;
-  width: 62px;
-  height: 62px;
+  width: 80px;
+  height: 80px;
   z-index: 99;
   background-position: center;
 }

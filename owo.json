@@ -12,7 +12,7 @@
 		},
 		{
 			"name": "viewport",
-			"content": "width=1000, user-scalable=yes"
+			"content": "width=1200, user-scalable=yes"
 		},
 		{
 			"name": "format-detection",
@@ -67,6 +67,10 @@
 		{
 			"name": "slide",
 			"src": "https://cunchu.site/owo/script/slide.js"
+		},
+		{
+			"name": "tabIt",
+			"src": "https://cunchu.site/owo/script/tabIt.js"
 		},
 		{
 			"name": "main",

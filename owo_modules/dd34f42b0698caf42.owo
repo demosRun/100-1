@@ -1,19 +1,44 @@
 <template>
-  <div class="LbWMGSGs">
+  <div class="LbWMGSGs2">
     <div class="swiper-container">
       <div class="swiper-wrapper">
-        <div class="swiper-slide card" :for="data.swiperList">
+        <div class="swiper-slide card">
           <div class="swiper-item" >
-            <a href="#">
-              <img width="300" height="170" src="{value.image}"/>
-              <div class="card">
-                <div class="title clear">
-                  <h3 class="fl">焦点新闻</h3>
-                  <h5 class="fr">2021.07.01</h5>
-                </div>
-                <div class="image-title">{value.title}</div>
-              </div>
-            </a>
+            <div class="big-box claer">
+              <a href="#">
+                <img width="380" height="380" src="http://www.people.com.cn/NMediaFile/2019/1226/MAIN201912260907120738032280874.jpg"/>
+                <span>中国冰雕亮相莫斯科</span>        
+              </a>
+            </div>
+          </div>
+          
+        </div>
+        <div class="swiper-slide card">
+          <div class="swiper-item" >
+            <div class="mini-box claer">
+              <a href="#">
+                <img width="380" height="380" src="http://www.people.com.cn/NMediaFile/2019/1226/MAIN201912260907120738032280874.jpg"/>
+                <span>中国冰雕亮相莫斯科</span>        
+              </a>
+              <a href="#">
+                <img width="380" height="380" src="http://www.people.com.cn/NMediaFile/2019/1226/MAIN201912260907120738032280874.jpg"/>
+                <span>中国冰雕亮相莫斯科</span>        
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="swiper-slide card">
+          <div class="swiper-item" >
+            <div class="mini-box claer">
+              <a href="#">
+                <img width="380" height="380" src="http://www.people.com.cn/NMediaFile/2019/1226/MAIN201912260907120738032280874.jpg"/>
+                <span>中国冰雕亮相莫斯科</span>        
+              </a>
+              <a href="#">
+                <img width="380" height="380" src="http://www.people.com.cn/NMediaFile/2019/1226/MAIN201912260907120738032280874.jpg"/>
+                <span>中国冰雕亮相莫斯科</span>        
+              </a>
+            </div>
           </div>
         </div>
       </div>
@@ -27,7 +52,7 @@
   module.exports = {
     created: function () {
       const cont = this.$el.getElementsByClassName('swiper-container')[0]
-      this.data.swiper = new Swiper(cont, {"loop":true,"autoplay":3000,"slidesPerView":4})
+      this.data.swiper = new Swiper(cont, {"loop":true,"autoplay":5000,"slidesPerView":3})
     },
     data: {
       swiper: null,
@@ -51,16 +76,17 @@
 </script>
 
 <style lang="less">
-  .LbWMGSGs {
-    height: 320px;
+  .LbWMGSGs2 {
+    height: 380px;
     width: 1200px;
+    margin: 10px 0;
     position: relative;
     .swiper-container {
       height: 100%;
       width: 1200px;
       position: relative;
       .swiper-item {
-        width: 290px;
+        width: 380px;
         height: 100%;
         position: absolute;
         left: 0;
@@ -76,7 +102,7 @@
     }
   }
 
-  .LbWMGSGs {
+  .LbWMGSGs2 {
     position: relative;
     .swiper-button {
       position: absolute;
@@ -105,7 +131,7 @@
     text-decoration: none;
     img {
       width: 100%;
-      height: 170px;
+      height: 100%;
       margin: 0 auto;
       display: block;
     }
@@ -118,11 +144,6 @@
     font-size: 16px;
     width: 100%;
     margin: 0 auto;
-    text-align: left;
-    padding: 0 10px;
-    height: 100px;
-    overflow: hidden;
-    background-color: #fafafa;
   }
   .swiper-slide {
     position: relative;
@@ -134,21 +155,60 @@
       left: 10px;
     }
   }
-  .card {
+  .big-box, .mini-box {
+    width: 380px;
+    height: 380px;
+    a {
+      height: 100%;
+    }
   }
-  .title {
-    padding: 10px;
-    background-color: #fafafa;
-    h3 {
-      background-color: #F92727;
-      color: white;
-      padding: 4px;
+  .mini-box a, .mini-box img {
+    width: 184px;
+    height: 192px;
+    float: left;
+    display: block;
+    position: relative;
+  }
+  .mini-box a {
+    height: 100%;
+  }
+  .mini-box a:nth-child(odd) {
+    span {
+      position: absolute;
+      top: 0;
     }
-    h5 {
-      color: #b4b4b4;
-      line-height: 28px;
-      font-size: 14px;
-      font-weight: normal;
+    img {
+      position: absolute;
+      bottom: 0;
     }
+  }
+  .mini-box a:nth-child(odd) {
+    margin-right: 12px;
+  }
+  .mini-box a span {
+    background-color: #D41A25;
+    width: 100%;
+    height: 50%;
+    color: white;
+    font-size: 24px;
+    line-height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .big-box a {
+    position: relative;
+    height: 100%;
+  }
+  .big-box a span {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    background: rgba(212,26,37,0.80);
+    color: white;
+    height: 40px;
+    line-height: 40px;
+    font-size: 17px;
   }
 </style>

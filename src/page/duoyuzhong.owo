@@ -1,0 +1,313 @@
+<template>
+    <div class="w1200 p15Con clearfix">
+        <div class="languageTabTitle">
+            <div class="languageTabTop clear" id="waiTitle">
+                <span class="e1 swi" data="0">
+                    <a href="http://english.people.com.cn/102775/416110/index.html" target="_blank"></a>
+                </span>
+                <span class="e2 swi" data="1">
+                    <a href="http://j.people.com.cn/94474/415923/416111/index.html" target="_blank"></a>				
+                </span>
+                <span class="e3 swi" ><a href="http://french.peopledaily.com.cn/31966/416135/index.html" target="_blank"></a></span>
+                <span class="e4 swi" ><a href="http://kr.people.com.cn/204015/416125/index.html" target="_blank"></a></span>
+                <span class="e5" ><a href="http://arabic.people.com.cn/91020/416108/index.html" target="_blank">English</a></span>
+                <span class="e6"><a href="http://arabic.people.com.cn/91020/416108/index.html" target="_blank">中文</a></span>
+            </div>
+        </div>
+        <div class="waiBox">
+            <div class="p15Con clearfix">
+                <div class="fl left white">
+                    <a href="http://english.people.com.cn/n3/2020/0522/c90000-9693021.html" target="_blank"><img src="http://en.people.cn/NMediaFile/2020/0522/FOREIGN202005221029522592888382161.jpg" width="340" height="215" alt="Highlights of 2020 Government Work Report"/></a><p><a href="http://english.people.com.cn/n3/2020/0522/c90000-9693021.html" target="_blank"><font size="4">Highlights of 2020 Government Work Report</font></a></p>
+
+                </div>
+                <div class="fl center">
+                    <h2><a href='/n3/2020/0527/c90000-9694666.html' target="_blank">Xi emphasizes strengthening national defense, armed forces</a></h2>
+
+                    <ul class="list5 clearfix"><li><a href='/n3/2020/0529/c90000-9695651.html' target="_blank">China expects positive GDP growth, achieving development goals</a></li>
+                <li><a href='/n3/2020/0528/c90000-9695568.html' target="_blank">China confident of winning battle against poverty this year: premier</a></li>
+                <li><a href='/n3/2020/0528/c90000-9695564.html' target="_blank">China, U.S. businesses need each other: premier</a></li>
+                <li><a href='/n3/2020/0528/c90000-9695559.html' target="_blank">China, Japan, ROK working together to advance FTA development: premier</a></li>
+
+                </ul>
+                    </div>
+                    <div class="fr center">
+                        <ul class="pic9 clearfix"><li><a href="http://en.people.cn/n3/2020/0524/c90000-9693851.html" target="_blank"><img src="http://en.people.cn/NMediaFile/2020/0524/FOREIGN202005241724580486736241644.jpg" width="167" height="136" alt="In pics: Chinese FM meets press on foreign policy, relations"/></a><span><a href="http://en.people.cn/n3/2020/0524/c90000-9693851.html" target="_blank">In pics: Chinese FM meets press on foreign policy, relations</a></span></li>
+                    <li><a href="http://en.people.cn/n3/2020/0524/c90000-9693752.html" target="_blank"><img src="http://en.people.cn/NMediaFile/2020/0524/FOREIGN202005241726416212302912809.jpg" width="167" height="136" alt="Members of 13th National Committee of CPPCC give interviews via video link"/></a><span><a href="http://en.people.cn/n3/2020/0524/c90000-9693752.html" target="_blank">Members of 13th National Committee of CPPCC give interviews via video link</a></span></li>
+                </ul>
+                </div>
+            </div>
+            <div class="p15Con clearfix">
+                <div class="fl left white">
+                    <a href="http://english.people.com.cn/n3/2020/0522/c90000-9693021.html" target="_blank"><img src="http://en.people.cn/NMediaFile/2020/0522/FOREIGN202005221029522592888382161.jpg" width="340" height="215" alt="Highlights of 2020 Government Work Report"/></a><p><a href="http://english.people.com.cn/n3/2020/0522/c90000-9693021.html" target="_blank"><font size="4">Highlights of 2020 Government Work Report</font></a></p>
+
+                </div>
+                <div class="fl center">
+                    <h2><a href='/n3/2020/0527/c90000-9694666.html' target="_blank">2Xi emphasizes strengthening national defense, armed forces</a></h2>
+
+                    <ul class="list5 clearfix"><li><a href='/n3/2020/0529/c90000-9695651.html' target="_blank">China expects positive GDP growth, achieving development goals</a></li>
+                <li><a href='/n3/2020/0528/c90000-9695568.html' target="_blank">China confident of winning battle against poverty this year: premier</a></li>
+                <li><a href='/n3/2020/0528/c90000-9695564.html' target="_blank">China, U.S. businesses need each other: premier</a></li>
+                <li><a href='/n3/2020/0528/c90000-9695559.html' target="_blank">China, Japan, ROK working together to advance FTA development: premier</a></li>
+
+                </ul>
+                    </div>
+                    <div class="fr center">
+                        <ul class="pic9 clearfix"><li><a href="http://en.people.cn/n3/2020/0524/c90000-9693851.html" target="_blank"><img src="http://en.people.cn/NMediaFile/2020/0524/FOREIGN202005241724580486736241644.jpg" width="167" height="136" alt="In pics: Chinese FM meets press on foreign policy, relations"/></a><span><a href="http://en.people.cn/n3/2020/0524/c90000-9693851.html" target="_blank">In pics: Chinese FM meets press on foreign policy, relations</a></span></li>
+                    <li><a href="http://en.people.cn/n3/2020/0524/c90000-9693752.html" target="_blank"><img src="http://en.people.cn/NMediaFile/2020/0524/FOREIGN202005241726416212302912809.jpg" width="167" height="136" alt="Members of 13th National Committee of CPPCC give interviews via video link"/></a><span><a href="http://en.people.cn/n3/2020/0524/c90000-9693752.html" target="_blank">Members of 13th National Committee of CPPCC give interviews via video link</a></span></li>
+                </ul>
+                </div>
+            </div>
+            <div class="p15Con clearfix">
+                <div class="fl left white">
+                    <a href="http://english.people.com.cn/n3/2020/0522/c90000-9693021.html" target="_blank"><img src="http://en.people.cn/NMediaFile/2020/0522/FOREIGN202005221029522592888382161.jpg" width="340" height="215" alt="Highlights of 2020 Government Work Report"/></a><p><a href="http://english.people.com.cn/n3/2020/0522/c90000-9693021.html" target="_blank"><font size="4">Highlights of 2020 Government Work Report</font></a></p>
+
+                </div>
+                <div class="fl center">
+                    <h2><a href='/n3/2020/0527/c90000-9694666.html' target="_blank">3Xi emphasizes strengthening national defense, armed forces</a></h2>
+
+                    <ul class="list5 clearfix"><li><a href='/n3/2020/0529/c90000-9695651.html' target="_blank">China expects positive GDP growth, achieving development goals</a></li>
+                <li><a href='/n3/2020/0528/c90000-9695568.html' target="_blank">China confident of winning battle against poverty this year: premier</a></li>
+                <li><a href='/n3/2020/0528/c90000-9695564.html' target="_blank">China, U.S. businesses need each other: premier</a></li>
+                <li><a href='/n3/2020/0528/c90000-9695559.html' target="_blank">China, Japan, ROK working together to advance FTA development: premier</a></li>
+
+                </ul>
+                    </div>
+                    <div class="fr center">
+                        <ul class="pic9 clearfix"><li><a href="http://en.people.cn/n3/2020/0524/c90000-9693851.html" target="_blank"><img src="http://en.people.cn/NMediaFile/2020/0524/FOREIGN202005241724580486736241644.jpg" width="167" height="136" alt="In pics: Chinese FM meets press on foreign policy, relations"/></a><span><a href="http://en.people.cn/n3/2020/0524/c90000-9693851.html" target="_blank">In pics: Chinese FM meets press on foreign policy, relations</a></span></li>
+                    <li><a href="http://en.people.cn/n3/2020/0524/c90000-9693752.html" target="_blank"><img src="http://en.people.cn/NMediaFile/2020/0524/FOREIGN202005241726416212302912809.jpg" width="167" height="136" alt="Members of 13th National Committee of CPPCC give interviews via video link"/></a><span><a href="http://en.people.cn/n3/2020/0524/c90000-9693752.html" target="_blank">Members of 13th National Committee of CPPCC give interviews via video link</a></span></li>
+                </ul>
+                </div>
+            </div>
+            <div class="p15Con clearfix">
+                <div class="fl left white">
+                    <a href="http://english.people.com.cn/n3/2020/0522/c90000-9693021.html" target="_blank"><img src="http://en.people.cn/NMediaFile/2020/0522/FOREIGN202005221029522592888382161.jpg" width="340" height="215" alt="Highlights of 2020 Government Work Report"/></a><p><a href="http://english.people.com.cn/n3/2020/0522/c90000-9693021.html" target="_blank"><font size="4">Highlights of 2020 Government Work Report</font></a></p>
+
+                </div>
+                <div class="fl center">
+                    <h2><a href='/n3/2020/0527/c90000-9694666.html' target="_blank">Xi emphasizes strengthening national defense, armed forces</a></h2>
+
+                    <ul class="list5 clearfix"><li><a href='/n3/2020/0529/c90000-9695651.html' target="_blank">China expects positive GDP growth, achieving development goals</a></li>
+                <li><a href='/n3/2020/0528/c90000-9695568.html' target="_blank">China confident of winning battle against poverty this year: premier</a></li>
+                <li><a href='/n3/2020/0528/c90000-9695564.html' target="_blank">China, U.S. businesses need each other: premier</a></li>
+                <li><a href='/n3/2020/0528/c90000-9695559.html' target="_blank">China, Japan, ROK working together to advance FTA development: premier</a></li>
+
+                </ul>
+                    </div>
+                    <div class="fr center">
+                        <ul class="pic9 clearfix"><li><a href="http://en.people.cn/n3/2020/0524/c90000-9693851.html" target="_blank"><img src="http://en.people.cn/NMediaFile/2020/0524/FOREIGN202005241724580486736241644.jpg" width="167" height="136" alt="In pics: Chinese FM meets press on foreign policy, relations"/></a><span><a href="http://en.people.cn/n3/2020/0524/c90000-9693851.html" target="_blank">In pics: Chinese FM meets press on foreign policy, relations</a></span></li>
+                    <li><a href="http://en.people.cn/n3/2020/0524/c90000-9693752.html" target="_blank"><img src="http://en.people.cn/NMediaFile/2020/0524/FOREIGN202005241726416212302912809.jpg" width="167" height="136" alt="Members of 13th National Committee of CPPCC give interviews via video link"/></a><span><a href="http://en.people.cn/n3/2020/0524/c90000-9693752.html" target="_blank">Members of 13th National Committee of CPPCC give interviews via video link</a></span></li>
+                </ul>
+                </div>
+            </div>
+            <div class="p15Con clearfix">
+                <div class="fl left white">
+                    <a href="http://english.people.com.cn/n3/2020/0522/c90000-9693021.html" target="_blank"><img src="http://en.people.cn/NMediaFile/2020/0522/FOREIGN202005221029522592888382161.jpg" width="340" height="215" alt="Highlights of 2020 Government Work Report"/></a><p><a href="http://english.people.com.cn/n3/2020/0522/c90000-9693021.html" target="_blank"><font size="4">Highlights of 2020 Government Work Report</font></a></p>
+
+                </div>
+                <div class="fl center">
+                    <h2><a href='/n3/2020/0527/c90000-9694666.html' target="_blank">Xi emphasizes strengthening national defense, armed forces</a></h2>
+
+                    <ul class="list5 clearfix"><li><a href='/n3/2020/0529/c90000-9695651.html' target="_blank">China expects positive GDP growth, achieving development goals</a></li>
+                <li><a href='/n3/2020/0528/c90000-9695568.html' target="_blank">China confident of winning battle against poverty this year: premier</a></li>
+                <li><a href='/n3/2020/0528/c90000-9695564.html' target="_blank">China, U.S. businesses need each other: premier</a></li>
+                <li><a href='/n3/2020/0528/c90000-9695559.html' target="_blank">China, Japan, ROK working together to advance FTA development: premier</a></li>
+
+                </ul>
+                    </div>
+                    <div class="fr center">
+                        <ul class="pic9 clearfix"><li><a href="http://en.people.cn/n3/2020/0524/c90000-9693851.html" target="_blank"><img src="http://en.people.cn/NMediaFile/2020/0524/FOREIGN202005241724580486736241644.jpg" width="167" height="136" alt="In pics: Chinese FM meets press on foreign policy, relations"/></a><span><a href="http://en.people.cn/n3/2020/0524/c90000-9693851.html" target="_blank">In pics: Chinese FM meets press on foreign policy, relations</a></span></li>
+                    <li><a href="http://en.people.cn/n3/2020/0524/c90000-9693752.html" target="_blank"><img src="http://en.people.cn/NMediaFile/2020/0524/FOREIGN202005241726416212302912809.jpg" width="167" height="136" alt="Members of 13th National Committee of CPPCC give interviews via video link"/></a><span><a href="http://en.people.cn/n3/2020/0524/c90000-9693752.html" target="_blank">Members of 13th National Committee of CPPCC give interviews via video link</a></span></li>
+                </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</template>
+
+<style>
+/* 多语种切换 */
+.language_2019LH {
+  width: 1000px;
+  height: auto;
+  margin: 0 auto 20px auto;
+}
+
+.languageTabTitle .title {
+  width: 100%;
+  height: 147px;
+  text-align: center;
+  position: relative;
+  padding: 30px 0 50px 0;
+}
+
+.languageTabTitle .title span {
+  display: inline-block;
+  height: 147px;
+  width: 508px;
+  background: url(http://lianghui.people.com.cn/img/2019lh/static/images/title_language.jpg) no-repeat;
+}
+
+.languageTabTitle {
+  width: 100%;
+  height: auto;
+}
+
+.languageTabTitle .languageTabTop {
+	padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.languageTabTitle .languageTabTop span {
+  display: inline-block;
+  width: 10.5%;
+  text-align: center;
+    height: 30px;
+    float: left;
+    color: #c71f29;
+    font-size: 19px;
+    line-height: 30px;
+}
+
+.languageTabTitle .languageTabTop span a {
+  display: inline-block;
+  width: 100%;
+  height: 30px;
+  color: #c71f29;
+    font-size: 19px;
+    line-height: 30px;
+}
+
+.languageTabTitle .languageTabTop .e1 {
+  background: url(http://lianghui.people.com.cn/img/2019lh/static/images/e3.png) no-repeat center center;
+}
+
+.languageTabTitle .languageTabTop .e2 {
+  background: url(http://lianghui.people.com.cn/img/2019lh/static/images/e9.png) no-repeat center center;
+}
+
+.languageTabTitle .languageTabTop .e3 {
+  background: url(http://lianghui.people.com.cn/img/2019lh/static/images/e5.png) no-repeat center center;
+}
+
+.languageTabTitle .languageTabTop .e4 {
+  background: url(http://lianghui.people.com.cn/img/2019lh/static/images/e7.png) no-repeat center center;
+}
+
+.languageTabTitle .languageTabTop .e1.active {
+  background: url("http://www.people.com.cn/img/2019lh/static/images/e3_hover.png") center center no-repeat rgb(199, 31, 41);
+}
+
+.languageTabTitle .languageTabTop .e2.active {
+  background: url("http://www.people.com.cn/img/2019lh/static/images/e9_hover.png") center center no-repeat rgb(199, 31, 41);
+}
+
+.languageTabTitle .languageTabTop .e3.active {
+  background: url("http://www.people.com.cn/img/2019lh/static/images/e5_hover.png") center center no-repeat rgb(199, 31, 41);
+}
+
+.languageTabTitle .languageTabTop .e4.active {
+  background: url("http://www.people.com.cn/img/2019lh/static/images/e7_hover.png") center center no-repeat rgb(199, 31, 41);
+}
+
+
+.languageTabTitle .languageTabBottom {
+  width: 520px;
+  margin: 0 auto;
+  padding-bottom: 30px;
+}
+
+.languageTabTitle .languageTabBottom span {
+  display: inline-block;
+  width: 18%;
+  text-align: center;
+  height: 36px;
+  background-size: contain;
+}
+
+.languageTabTitle .languageTabBottom span a {
+  display: inline-block;
+  width: 100%;
+  height: 30px;
+}
+
+.languageTabTitle .languageTabBottom .m1 {
+  background: url(http://lianghui.people.com.cn/img/2019lh/static/images/m1.png) no-repeat center center;
+  background-size: contain;
+}
+
+.languageTabTitle .languageTabBottom .m2 {
+  background: url(http://lianghui.people.com.cn/img/2019lh/static/images/m2.png) no-repeat center center;
+}
+
+.languageTabTitle .languageTabBottom .m3 {
+  background: url(http://lianghui.people.com.cn/img/2019lh/static/images/m3.png) no-repeat center center;
+}
+
+.languageTabTitle .languageTabBottom .m4 {
+  background: url(http://lianghui.people.com.cn/img/2019lh/static/images/m4.png) no-repeat center center;
+}
+
+.languageTabTitle .languageTabBottom .m5 {
+  background: url(http://lianghui.people.com.cn/img/2019lh/static/images/m5.png) no-repeat center center;
+}
+
+.languageTabTitle .languageTabBottom .m6 {
+  background: url(http://lianghui.people.com.cn/img/2019lh/static/images/m6.png) no-repeat center center;
+}
+
+.languageTabTitle .languageTabBottom .m7 {
+  background: url(http://lianghui.people.com.cn/img/2019lh/static/images/m7.png) no-repeat center center;
+}
+
+.languageTabTitle .languageTabBottom span.m1:hover {
+  background: url(http://lianghui.people.com.cn/img/2019lh/static/images/m1_hover.png) no-repeat center center #c71f29;
+}
+
+.languageTabTitle .languageTabBottom span.m2:hover {
+  background: url(http://lianghui.people.com.cn/img/2019lh/static/images/m2_hover.png) no-repeat center center #c71f29;
+}
+
+.languageTabTitle .languageTabBottom span.m3:hover {
+  background: url(http://lianghui.people.com.cn/img/2019lh/static/images/m3_hover.png) no-repeat center center #c71f29;
+}
+
+.languageTabTitle .languageTabBottom span.m4:hover {
+  background: url(http://lianghui.people.com.cn/img/2019lh/static/images/m4_hover.png) no-repeat center center #c71f29;
+}
+
+.languageTabTitle .languageTabBottom span.m5:hover {
+  background: url(http://lianghui.people.com.cn/img/2019lh/static/images/m5_hover.png) no-repeat center center #c71f29;
+}
+
+.auto-box-waiwen {
+	min-height: 345px;
+}
+
+
+.swiper-slide a {
+	display: block;
+}
+.p15Con {
+    padding: 0 20px;
+    text-align: left;
+}
+.p15Con .left{width: 340px;height: 305px;background:#be2f21;}
+.p15Con .center{width: 298px;margin-left:20px;}
+.p15Con .right{width: 325px;}
+.p15Con .left p{width:100%;padding:15px 20px 0 20px;line-height: 160%;color:white;}
+.p15Con .left p a {
+    color:white;
+}
+.p15Con .center h2{font:bold 24px/28px Georgia;}
+.list5{margin-top:20px;}
+.list5 li{font-size: 14px;line-height:30px;font-family: Georgia}
+.pic9 li{height: 136px;background:#f7f8fa;margin-bottom: 37px;}
+.pic9 li img{float:left;}
+.pic9 li span{display:inline-block;padding:8px 15px 0 15px;width:211px;font-size: 14px;}
+.fr.center {
+    width: 380px;
+}
+.waiBox .p15Con {
+    padding: 0;
+}
+</style>

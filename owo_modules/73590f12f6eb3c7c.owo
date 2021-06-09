@@ -57,12 +57,12 @@ module.exports = {
 <style>
   .slider {
     width: 655px;
-    height: 414px;
+    height: 420px;
     overflow: hidden;
   }
   .control_prev, .control_next {
     position: absolute;
-    bottom: 18px;
+    bottom: 15px;
     z-index: 999;
     display: block;
     width: auto;

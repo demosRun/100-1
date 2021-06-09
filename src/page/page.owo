@@ -36,11 +36,98 @@
             a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
           li
             a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
-      .lr-box
-        .left.title-card.xwfbh
+      //- 每日看点
+      .lr-box.mrkd.clear
+        .left.fl
+          .top-bar.clear
+            .rili-box
+              .mon 7月
+              .day 02
+            .title-text 每日看点
+          .panel
+            ul
+              li
+                a(href="#" target="_blank") 党中央将隆重举行表彰大会 颁授党内最高荣誉“七一勋章”1
+              li
+                a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+              li
+                a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+              li
+                a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+              li
+                a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+            ul
+              li
+                a(href="#" target="_blank") 党中央将隆重举行表彰大会 颁授党内最高荣誉“七一勋章”2
+              li
+                a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+              li
+                a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+              li
+                a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+              li
+                a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+            ul
+              li
+                a(href="#" target="_blank") 党中央将隆重举行表彰大会 颁授党内最高荣誉“七一勋章”3
+              li
+                a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+              li
+                a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+              li
+                a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+              li
+                a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+            ul
+              li
+                a(href="#" target="_blank") 党中央将隆重举行表彰大会 颁授党内最高荣誉“七一勋章”4
+              li
+                a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+              li
+                a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+              li
+                a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+              li
+                a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+            ul
+              li
+                a(href="#" target="_blank") 党中央将隆重举行表彰大会 颁授党内最高荣誉“七一勋章”5
+              li
+                a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+              li
+                a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+              li
+                a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+              li
+                a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+            ul
+              li
+                a(href="#" target="_blank") 党中央将隆重举行表彰大会 颁授党内最高荣誉“七一勋章”6
+              li
+                a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+              li
+                a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+              li
+                a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+              li
+                a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+          ul.bottom-menu
+            li 1日
+            li 2日
+            li 3日
+            li 4日
+            li 5日
+            li 6日
+        .right.jzzq.fr
+          .title-bar 记者专区
+          input#userNmae(type="text")
+          input#password(type="text")
+          .button(o-hover="grow") 立即登陆
+      .lr-box.clear
+        .left.title-card.xwfbh.fl
           .title.clear
             h2.fl 新闻发布会
-            h5.fr 更多
+            h5.fr 更多+
           video.xwimg(src="https://cunchu.site/people/%E6%9D%91.mp4" controls)
           .lable-info
             .lable 关注
@@ -58,13 +145,282 @@
               a(href="#" target="_blank")
                 .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
                 .time 7-1
-        .right
+        .right.title-card.tzgg.fr
+          .title.clear
+            h2.fl 通知公告
+            h5.fr 更多+
+          ul
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+      plug(_name="module25" _src="https://template.owo.ink/a234cff3f81bdd31.owo")
+      //- 媒体区域
+      .lr-box.clear
+        .left.fl.mtjj.title-card
+          .title.clear
+              h2.fl 媒体聚焦
+              h5.fr 更多+
+          ul
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+            li.clear
+              a(href="#" target="_blank")
+                .text 新闻发布会新闻发布会新闻发布会新闻发布会新闻发布会
+                .time 7-1
+        .right.fr.rmtyfw.title-card
+          .title.clear
+            h2.fl 融媒体验服务
+            h5.fr
+          .or-box
+      .title-card.tbch
+        .title.clear
+          h2.fl 特别策划
+          h5.fr 更多+
+        plug(_name="module1412" _src="https://template.owo.ink/dd34f42b0698caf42.owo")
+      .title-card.dszl
+        .title.clear
+          h2.fl 党史资料
+          h5.fr 更多+
+        .cent-box.clear
+          .float-img-box.left.fl.clear
+            a(href="#")
+              img(width="285" height="158" src="http://www.people.com.cn/NMediaFile/2019/1226/MAIN201912260907120738032280874.jpg")
+            a(href="#")
+              img(width="285" height="158" src="http://www.people.com.cn/NMediaFile/2019/1226/MAIN201912260907120738032280874.jpg")
+            a(href="#")
+              img(width="285" height="158" src="http://www.people.com.cn/NMediaFile/2019/1226/MAIN201912260907120738032280874.jpg")
+            a(href="#")
+              img(width="285" height="158" src="http://www.people.com.cn/NMediaFile/2019/1226/MAIN201912260907120738032280874.jpg")
+          .right.fr.tab-box
+            .tab-title.clear
+              .item 重要会议
+              .item 重要事件
+              .item 人物长廊
+              .item 党史百科
+            .panel-box
+              .item
+                ul
+                  li
+                    a(href="#" target="_blank") 党中央将隆重举行表彰大会 颁授党内最高荣誉“七一勋章”
+                  li
+                    a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+                  li
+                    a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+                  li
+                    a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+                  li
+                    a(href="#" target="_blank") 党中央将隆重举行表彰大会 颁授党内最高荣誉“七一勋章”
+                  li
+                    a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+                  li
+                    a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+                  li
+                    a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+                  li
+                    a(href="#" target="_blank") 党中央将隆重举行表彰大会 颁授党内最高荣誉“七一勋章”
+                  li
+                    a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+                  li
+                    a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+                  li
+                    a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+                .more
+                  a(href="#" target="_blank") 更多+
+              .item
+                ul
+                  li
+                    a(href="#" target="_blank") 党中央将隆重举行表彰大会 颁授党内最高荣誉“七一勋章”
+                  li
+                    a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+                  li
+                    a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+                  li
+                    a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+                .more
+                  a(href="#" target="_blank") 更多+
+              .item
+                ul
+                  li
+                    a(href="#" target="_blank") 党中央将隆重举行表彰大会 颁授党内最高荣誉“七一勋章”
+                  li
+                    a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+                  li
+                    a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+                  li
+                    a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+                .more
+                  a(href="#" target="_blank") 更多+
+              .item
+                ul
+                  li
+                    a(href="#" target="_blank") 党中央将隆重举行表彰大会 颁授党内最高荣誉“七一勋章”
+                  li
+                    a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+                  li
+                    a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+                  li
+                    a(href="#" target="_blank") 习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员
+                .more
+                  a(href="#" target="_blank") 更多+
+      .title-card.dyzbd
+        .title.clear
+          h2.fl 多语种报道
+          h5.fr 更多+
+        plug(_name="duoyuzhong" _src="./src/page/duoyuzhong.owo")
+        //- 底部版权
+    plug(_name="bottom" _src="./src/page/bottom.owo")
 </template>
 
 <script>
+  var edit = [
+    {
+      "day": "1日",
+      "month": "7月",
+      "data": '<li><a href="#" target="_blank">党中央将隆重举行表彰大会 颁授党内最高荣誉“七一勋章”1</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li>'
+    },
+    {
+      "day": "2日",
+      "month": "7月",
+      "data": '<li><a href="#" target="_blank">党中央将隆重举行表彰大会 颁授党内最高荣誉“七一勋章”2</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li>'
+    },
+    {
+      "day": "3日",
+      "month": "7月",
+      "data": '<li><a href="#" target="_blank">党中央将隆重举行表彰大会 颁授党内最高荣誉“七一勋章”2</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li>'
+    },
+    {
+      "day": "4日",
+      "month": "7月",
+      "data": '<li><a href="#" target="_blank">党中央将隆重举行表彰大会 颁授党内最高荣誉“七一勋章”2</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li>'
+    },
+    {
+      "day": "5日",
+      "month": "7月",
+      "data": '<li><a href="#" target="_blank">党中央将隆重举行表彰大会 颁授党内最高荣誉“七一勋章”2</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li>'
+    },
+    {
+      "day": "6日",
+      "month": "7月",
+      "data": '<li><a href="#" target="_blank">党中央将隆重举行表彰大会 颁授党内最高荣誉“七一勋章”2</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li>'
+    },
+    {
+      "day": "7日",
+      "month": "7月",
+      "data": '<li><a href="#" target="_blank">党中央将隆重举行表彰大会 颁授党内最高荣誉“七一勋章”2</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li><li><a href="#" target="_blank">习近平等领导同志亲切会见出席党的十九大代表、特邀代表和列席人员</a></li>'
+    },
+  ]
   module.exports = {
     created: function () {
       console.log('sd')
+      new tabIt(document.querySelectorAll('.tab-box .tab-title .item'), document.querySelectorAll('.tab-box .panel-box .item'), 'mouseover')
+      // 多语种
+      new tabIt(document.querySelectorAll('#waiTitle .swi'), document.querySelectorAll('.waiBox .p15Con'), 'mouseover')
+
+      
+      // 生成日历
+      var borromData = ''
+      var panelData = ''
+      for (var index = 0; index < edit.length; index++) {
+        var element = edit[index];
+        borromData += `<li>${element.day}</li>`
+        panelData += `<ul style="display: none;">${element.data}</ul>`
+      }
+      console.log(panelData)
+      document.querySelector('.mrkd .panel').innerHTML = panelData
+      document.querySelector('.mrkd .bottom-menu').innerHTML = borromData
+      setTimeout(() => {
+        new tabIt(document.querySelectorAll('.mrkd .bottom-menu li'), document.querySelectorAll('.mrkd .panel ul'), 'mouseover', (e) => {
+          document.querySelector('.rili-box .mon').innerHTML = edit[e.activeIndex].month
+          document.querySelector('.rili-box .day').innerHTML = edit[e.activeIndex].day
+        })
+      }, 0);
     }
   }
 </script>
@@ -78,9 +434,11 @@
   background-image: url('@|bg.jpg|');
   background-size: 100% auto;
   background-position: 0 -12vw;
+  background-repeat: no-repeat;
 }
 .main-top {
   display: block;
+  width: 100%;
 }
 .title-bar {
   background-color: #ce4a5c;
@@ -99,12 +457,12 @@
     }
   }
 }
-.high1, .LbWMGSGs, .news-head, .lr-box {
+.high1, .LbWMGSGs, .news-head, .lr-box, .show-img, .tbch, .dszl {
   margin-bottom: 20px;
 }
 .new-box {
   height: 420px;
-  .right {
+  ul.right {
     width: 545px;
     height: 100%;
     li {
@@ -137,6 +495,7 @@
 }
 .title-card {
   border: 1px solid #E4E4E4;
+  background-color: white;
   .title {
     height: 60px;
     line-height: 60px;
@@ -186,7 +545,7 @@
   ul {
     margin: 20px 0;
     .text {
-      font-size: 18px;
+      font-size: 17px;
       color: #000000;
       float: left;
     }
@@ -201,5 +560,227 @@
     }
   }
 }
-
+.tzgg, .mtjj {
+  height: 627px;
+  overflow: hidden;
+  ul {
+    height: 546px;
+    overflow: auto;
+  }
+  li {
+    background-image: url(http://www.people.com.cn/img/MAIN/2016/11/116906/images/dot.png);
+    background-repeat: no-repeat;
+    background-position: 15px 15px;
+    line-height: 28px;
+    padding: 0 30px;
+    font-size: 17px;
+    margin-bottom: 5px;
+    a {
+      display: block;
+    }
+    .text {
+      float: left;
+      width: 341px;
+      text-align: left;
+    }
+    .time {
+      float: right;
+    }
+  }
+}
+.or-box {
+  width: 436px;
+  height: 287px;
+  background-color: #ccc;
+  display: block;
+  margin: 20px auto;
+  margin-top: 10px;
+}
+.mtjj {
+  height: 379px;
+  ul {
+    height: 305px;
+  }
+}
+.float-img-box {
+  width: 590px;
+  a {
+    float: left;
+    margin-right: 10px;
+  }
+}
+.cent-box {
+  margin: 10px;
+  .tab-box {
+    width: 582px;
+    border: 1px solid #DFDFDF;
+    border-radius: 5px;
+  }
+  .tab-title .item {
+    float: left;
+    width: 25%;
+    background-color: #f1f1f1;
+    line-height: 40px;
+    border-right: 1px solid #DFDFDF;
+    box-sizing: border-box;
+    font-size: 17px;
+    color: #d1d1d1;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  .item.active {
+    color: #B20009;
+    background-color: white;
+  }
+  .panel-box ul {
+    display: block;
+    height: 240px;
+    overflow: hidden;
+    margin: 10px 0;
+    margin-bottom: 30px;
+  }
+  .panel-box .item {
+    position: relative;
+  }
+  .panel-box li {
+    background-image: url(http://www.people.com.cn/img/MAIN/2016/11/116906/images/dot.png);
+    background-repeat: no-repeat;
+    background-position: 15px 19px;
+    line-height: 40px;
+    text-align: left;
+    padding-left: 30px;
+    font-size: 16px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  .panel-box {
+    .more {
+      font-size: 14px;
+      color: #D4D4D4;
+      text-align: right;
+      position: absolute;
+      right: 10px;
+      bottom: -20px;
+      a {
+        color: #D4D4D4;
+      }
+    }
+  }
+}
+.mrkd {
+  .left {
+    border: 1px solid #E4E4E4;
+    box-sizing: border-box;
+  }
+  .bottom-menu {
+    background-color: #dd4851;
+    height: 50px;
+    line-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    li {
+      display: inline-block;
+      font-size: 20px;
+      margin-left: 10px;
+      color: #B20009;
+      border-right: 2px solid #B20009;
+      height: 24px;
+      line-height: 24px;
+      padding-right: 10px;
+      cursor: pointer;
+    }
+  }
+  .bottom-menu li.active {
+    background-color: white;
+    border-color: transparent;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 0;
+    padding-left: 5px;
+    margin: 0 5px;
+    padding-right: 5px;
+  }
+  .rili-box {
+    background-image: url('@|rili.png|');
+    width: 113px;
+    height: 60px;
+  }
+  .panel {
+    ul {
+      margin: 10px 20px;
+    }
+    li {
+      line-height: 40px;
+      text-align: left;
+      font-size: 16px;
+      border-bottom: 1px solid #FFDADA;
+      color: #000000;
+    }
+  }
+  .top-bar {
+    text-align: left;
+    margin: 10px 20px;
+  }
+  .rili-box {
+    display: inline-block;
+    float: left;
+    margin-right: 20px;
+    position: relative;
+  }
+  .title-text {
+    display: inline-block;
+    line-height: 60px;
+    color: #B20009;
+    font-size: 24px;
+    font-weight: bold;
+    float: left;
+  }
+  .mon {
+    color: #B20009;
+    position: absolute;
+    left: 0;
+    font-size: 26px;
+    line-height: 63px;
+    width: 60px;
+    text-align: center;
+  }
+  .day {
+    color: #B20009;
+    position: absolute;
+    left: 53px;
+    font-size: 26px;
+    line-height: 63px;
+    width: 60px;
+    text-align: center;
+  }
+}
+.jzzq {
+  background-color: #fafafa;
+  height: 347px;
+  .title-bar {
+    line-height: 70px;
+    height: 70px;
+    font-size: 26px;
+  }
+  input {
+    background-color: #ffeeee;
+    border-radius: 10px;
+    line-height: 55px;
+    display: block;
+    margin: 25px auto;
+    width: 400px;
+  }
+  .button {
+    background-color: #dc4750;
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+    line-height: 45px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+  }
+}
 </style>
